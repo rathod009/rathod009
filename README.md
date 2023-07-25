@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rathod009
+- 👋 Hi, I’m BHUMIK RATHOD | Student at Institute of Technology - NIRMA UNIVERSITY'24
 - 👀 I’m interested in Web Development and App Development.
 - 🌱 I’m currently learning Machine Learning, Software Testing, Cloud Computing, Data Mining and Visualisation, Mobile Application Development Technology (Android), e.t.c.
 - 💞️ I’m looking to collaborate on Web and App Development Tasks as well as projects.
